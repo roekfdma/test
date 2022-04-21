@@ -13,6 +13,8 @@ else % 1/3-octave
     nf = 27;
 end
 
+% test1 추가 했는데
+% ㅎㅎㅎ
 fid1 = fopen(file1);
 fid2 = fopen(file2);
 fid3 = fopen(file3, 'wt');
